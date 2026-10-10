@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652433551496",
+    "firebase_url": "https://tank-hero-41f75.firebaseio.com",
+    "project_id": "tank-hero-41f75",
+    "storage_bucket": "tank-hero-41f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652433551496:android:60e646d53984fab7506f3d",
+        "android_client_info": {
+          "package_name": "com.tankgame.tankhero.en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652433551496-7t56rpfkhmo3ip59251ij2i0drbsmb6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAq1RxuTi7E01azwB8WhE6n5RLFDqNx4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652433551496-7t56rpfkhmo3ip59251ij2i0drbsmb6k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652433551496-972mld1moqm1pnribh678ll616rnn6la.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tankgame.tankhero.en"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
